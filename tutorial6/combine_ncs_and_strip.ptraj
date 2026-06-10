@@ -1,0 +1,15 @@
+trajin a-dna_md1.nc
+trajin a-dna_md2.nc
+trajin a-dna_md3.nc
+trajin a-dna_md4.nc
+trajin a-dna_md5.nc
+trajin a-dna_md6.nc
+trajin a-dna_md7.nc
+trajin a-dna_md8.nc
+trajin a-dna_md9.nc
+trajin a-dna_md10.nc
+trajout a-dna_0-1820ps_no_wat.nc
+rms first out a-dna_0-1820ps.rmsfit @P,O3',O5',C3',C4',C5' time 0.50
+center :1-20
+image familiar
+strip :WAT

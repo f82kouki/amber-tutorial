@@ -1,0 +1,3 @@
+trajin polyAT_wat_md1.nc
+trajin polyAT_wat_md2.nc
+rms first out polyAT_wat_backbone.rms @P,O3',O5',C3',C4',C5' time 0.2

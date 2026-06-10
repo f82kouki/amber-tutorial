@@ -1,0 +1,10 @@
+trajin a-dna_md2.nc
+trajin a-dna_md3.nc
+trajin a-dna_md4.nc
+trajin a-dna_md5.nc
+trajin a-dna_md6.nc
+trajin a-dna_md7.nc
+trajin a-dna_md8.nc
+trajin a-dna_md9.nc
+trajin a-dna_md10.nc
+average a-dna_20-1820ps_average.pdb pdb nowrap

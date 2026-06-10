@@ -1,0 +1,19 @@
+# 巨大なトラジェクトリ・座標ファイル
+*.nc
+*.nc.gz
+*.ncrst
+*.rst7
+
+# 中間生成物
+mdinfo
+nohup.out
+a.out
+leap.log
+tleap.out
+
+# logファイル
+*_run.log
+*.log
+
+# tutorial1（別gitリポジトリ）
+tutorial1/

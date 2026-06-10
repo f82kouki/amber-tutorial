@@ -1,0 +1,4 @@
+molecule m;
+
+m = fd_helix( "adna", "aaaaaaaaaa", "dna" );
+putpdb( "a-dna.nab.pdb", m, "-wwpdb");
